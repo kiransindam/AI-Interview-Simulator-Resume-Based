@@ -60,6 +60,7 @@ interviewiq/
 ```
 
 ---
+## Documentation : [InterviewIQ_Documentation.docx](https://github.com/user-attachments/files/25935197/InterviewIQ_Documentation.docx)
 
 ## 🐛 Critical Bug Fixed (v1 to v2)
 
